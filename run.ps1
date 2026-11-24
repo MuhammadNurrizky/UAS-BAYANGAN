@@ -2,7 +2,7 @@ $ErrorActionPreference = "Stop"
 
 $envFile = Join-Path $PSScriptRoot ".env"
 if (-not (Test-Path $envFile)) {
-	Write-Error "File .env tidak ditemukan. Salin .env.example menjadi .env lalu isi kredensial Nararouter."
+	Write-Error "File .env tidak ditemukan. Buat file .env dan isi kredensial Nararouter."
 	exit 1
 }
 
