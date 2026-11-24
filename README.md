@@ -1,7 +1,6 @@
 # Board Game Buddy - Spring AI
 
-Aplikasi Spring Boot sederhana untuk Chapter 1 dan Chapter 2
-"Spring AI in Action".
+Aplikasi Spring Boot sederhana.
 
 ## Pengaturan Nararouter
 
