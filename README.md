@@ -8,18 +8,8 @@ Aplikasi Spring Boot sederhana untuk Chapter 1 dan Chapter 2
 - Java 21
 - Spring Boot 4.1.3
 - Spring AI 2.0.1
-- Nararouter API dengan model `gpt-6-luna`
 - WireMock untuk pengujian deterministik
 
-Isi `.env` dengan API key dan base URL dari Nararouter:
-
-```dotenv
-NARAROUTER_API_KEY=isi_api_key_anda
-NARAROUTER_BASE_URL=isi_base_url_dari_nararouter
-NARAROUTER_MODEL=gpt-6-luna
-```
-
-`.env` tidak dimasukkan Git. Base URL mengikuti alamat API-compatible yang diberikan Nararouter.
 
 ## Menjalankan aplikasi
 
